@@ -52,4 +52,8 @@ Este repositorio alberga las certificaciones y cursos completados en diferentes 
    - [SQL en Oracle: Curso de fundamentos](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0af693a3-c22f-458d-8b2f-580ece599b56.pdf)
    ![funfamentosqldesdecero](https://github.com/edSoto02/Cursos-Certificaciones/assets/106222946/bdddb3f5-8b77-42d5-bdfb-0792879a3005)
 
+- **Certificación 11:**
+  - ![cieciadedatos](https://github.com/edSoto02/Cursos-Certificaciones/assets/106222946/1b45bdc5-fd87-4fce-a0e4-73a677130352)
+
+
 ## El repositorio se ira actualizando con proximas certificaciones.
