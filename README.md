@@ -4,6 +4,17 @@ Este repositorio alberga las certificaciones y cursos completados en diferentes 
 
 ## Estructura del Repositorio
 
+
+- **Certificación Python:**
+  
+  ![python](https://github.com/user-attachments/assets/96bfb5e1-f0f1-4a00-9f93-9982ddeb1820)
+
+- **Certificación Ciencia de Datos:**  
+  ![cienciadedatos](https://github.com/user-attachments/assets/db6415dc-318e-4acc-b0a9-0cfbe40c8afa)
+
+- **Certificación Power BI:**  
+  ![powerbi](https://github.com/user-attachments/assets/1993b15d-3716-423a-9ef4-3844d9a5b91e)
+
 - **Certificación 1:**
   - [Numpy, libreria de Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c2a2da5-ce98-4bae-ae28-76e3bd33d0ac.pdf)
   ![numpy](https://github.com/edSoto02/Cursos-Certificaciones/assets/106222946/e53bb01d-49a0-46fc-9d20-3ee7c5e24921)
