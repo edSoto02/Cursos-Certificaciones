@@ -4,6 +4,9 @@ Este repositorio alberga las certificaciones y cursos completados en diferentes 
 
 ## Estructura del Repositorio
 
+- **Certificación Java:**
+![UC-f9fe0c50-29d2-4bdc-9e08-c31e381de200](https://github.com/user-attachments/assets/aeb2299d-0e88-4ae0-bcf8-40b70a6c7197)
+
 
 - **Certificación Python:**
   
