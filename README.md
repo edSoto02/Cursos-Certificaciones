@@ -4,6 +4,19 @@ Este repositorio alberga las certificaciones y cursos completados en diferentes 
 
 ## Estructura del Repositorio
 
+
+- **Certificación Data Science con Python:**
+![UC-6f391223-c44a-4ce0-b773-05fbdec0a218](https://github.com/user-attachments/assets/609df152-4e4d-4248-a342-da5bf85916c3)
+
+  
+- **Certificación Python con Goggle Colab:**
+  ![UC-14f1daa9-b45c-4ec2-b8e5-fed0311c4b66](https://github.com/user-attachments/assets/89aed2ae-c447-441e-861e-dcdfbccab3a0)
+
+
+- **Certificación HTML:**
+![UC-4621bba8-2924-43b1-9635-253d6ab68eef](https://github.com/user-attachments/assets/ef74ce86-de90-4df0-8eb8-c5098a298234)
+
+
 - **Certificación Java:**
 ![UC-f9fe0c50-29d2-4bdc-9e08-c31e381de200](https://github.com/user-attachments/assets/aeb2299d-0e88-4ae0-bcf8-40b70a6c7197)
 
